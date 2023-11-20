@@ -1,3 +1,4 @@
+# ```               Automation Project               ```
 # LinkedIn Job Application Automation Bot
 
 LinkedIn Job Application Automation Project in Python Script we uses Selenium to automate the job application process on LinkedIn. It logs in to your LinkedIn account, searches for Python developer jobs, and applies to each job listing.
